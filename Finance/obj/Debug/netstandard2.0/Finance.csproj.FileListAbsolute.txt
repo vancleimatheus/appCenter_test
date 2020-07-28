@@ -1,0 +1,13 @@
+/Users/vancleimatheus/Projetos/Source-code-App-Center-A-New-Project/Finance/bin/Debug/netstandard2.0/Finance.deps.json
+/Users/vancleimatheus/Projetos/Source-code-App-Center-A-New-Project/Finance/bin/Debug/netstandard2.0/Finance.dll
+/Users/vancleimatheus/Projetos/Source-code-App-Center-A-New-Project/Finance/bin/Debug/netstandard2.0/Finance.pdb
+/Users/vancleimatheus/Projetos/Source-code-App-Center-A-New-Project/Finance/obj/Debug/netstandard2.0/Finance.csprojAssemblyReference.cache
+/Users/vancleimatheus/Projetos/Source-code-App-Center-A-New-Project/Finance/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/vancleimatheus/Projetos/Source-code-App-Center-A-New-Project/Finance/obj/Debug/netstandard2.0/View/MainPage.xaml.g.cs
+/Users/vancleimatheus/Projetos/Source-code-App-Center-A-New-Project/Finance/obj/Debug/netstandard2.0/View/PostPage.xaml.g.cs
+/Users/vancleimatheus/Projetos/Source-code-App-Center-A-New-Project/Finance/obj/Debug/netstandard2.0/Finance.AssemblyInfoInputs.cache
+/Users/vancleimatheus/Projetos/Source-code-App-Center-A-New-Project/Finance/obj/Debug/netstandard2.0/Finance.AssemblyInfo.cs
+/Users/vancleimatheus/Projetos/Source-code-App-Center-A-New-Project/Finance/obj/Debug/netstandard2.0/Finance.csproj.CoreCompileInputs.cache
+/Users/vancleimatheus/Projetos/Source-code-App-Center-A-New-Project/Finance/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/vancleimatheus/Projetos/Source-code-App-Center-A-New-Project/Finance/obj/Debug/netstandard2.0/Finance.dll
+/Users/vancleimatheus/Projetos/Source-code-App-Center-A-New-Project/Finance/obj/Debug/netstandard2.0/Finance.pdb

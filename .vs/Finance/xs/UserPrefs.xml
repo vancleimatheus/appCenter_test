@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{8337A36F-24EB-4EA0-909B-C7644191855D}|Default">
+  <MonoDevelop.Ide.ItemProperties.Finance.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" Xamarin.HotReload.XFormsNugetUpgradeInfoBar.Finance.Android.HideInfoBar="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Finance.Android/Properties/AndroidManifest.xml">
+    <Files>
+      <File FileName="Finance/ViewModel/MainVM.cs" Line="36" Column="1" />
+      <File FileName="Finance/View/MainPage.xaml" />
+      <File FileName="Finance.Android/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="Finance.Android/Properties/AndroidManifest.xml" Line="3" Column="67" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Finance" expanded="True">
+            <Node name="Finance" expanded="True">
+              <Node name="View" expanded="True" />
+              <Node name="ViewModel" expanded="True" />
+            </Node>
+            <Node name="Finance.Android" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Packages" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="AndroidManifest.xml" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Finance.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Finance.iOS Xamarin.HotReload.XFormsNugetUpgradeInfoBar.Finance.iOS.HideInfoBar="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8C7DD8A3-E71E-4DE6-A69E-AC0BB47BD144" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/vancleimatheus/Projetos/Source-code-App-Center-A-New-Project/Finance/ViewModel/MainVM.cs" relfile="Finance/ViewModel/MainVM.cs" line="35" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

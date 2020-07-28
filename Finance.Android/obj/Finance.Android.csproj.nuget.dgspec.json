@@ -1,0 +1,125 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/vancleimatheus/Projetos/Source-code-App-Center-A-New-Project/Finance.Android/Finance.Android.csproj": {}
+  },
+  "projects": {
+    "/Users/vancleimatheus/Projetos/Source-code-App-Center-A-New-Project/Finance.Android/Finance.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vancleimatheus/Projetos/Source-code-App-Center-A-New-Project/Finance.Android/Finance.Android.csproj",
+        "projectName": "Finance.Android",
+        "projectPath": "/Users/vancleimatheus/Projetos/Source-code-App-Center-A-New-Project/Finance.Android/Finance.Android.csproj",
+        "packagesPath": "/Users/vancleimatheus/.nuget/packages/",
+        "outputPath": "/Users/vancleimatheus/Projetos/Source-code-App-Center-A-New-Project/Finance.Android/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/vancleimatheus/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid81"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid81": {
+            "projectReferences": {
+              "/Users/vancleimatheus/Projetos/Source-code-App-Center-A-New-Project/Finance/Finance.csproj": {
+                "projectPath": "/Users/vancleimatheus/Projetos/Source-code-App-Center-A-New-Project/Finance/Finance.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid81": {
+          "dependencies": {
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.v4": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.v7.AppCompat": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.v7.CardView": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.v7.MediaRouter": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.5.0.725, )"
+            }
+          }
+        }
+      }
+    },
+    "/Users/vancleimatheus/Projetos/Source-code-App-Center-A-New-Project/Finance/Finance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vancleimatheus/Projetos/Source-code-App-Center-A-New-Project/Finance/Finance.csproj",
+        "projectName": "Finance",
+        "projectPath": "/Users/vancleimatheus/Projetos/Source-code-App-Center-A-New-Project/Finance/Finance.csproj",
+        "packagesPath": "/Users/vancleimatheus/.nuget/packages/",
+        "outputPath": "/Users/vancleimatheus/Projetos/Source-code-App-Center-A-New-Project/Finance/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/vancleimatheus/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.7.0.1179, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

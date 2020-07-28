@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rnlbtrZd5VHv2fErTsw531Z9sQDrDG8bG5AUsNpZ6UeMU5Zzdh4I6Ac3jjuJ1pEVYe5tv9tDxQgBGtWmxoIHxA==",
+  "success": true,
+  "projectFilePath": "/Users/vancleimatheus/Projetos/Source-code-App-Center-A-New-Project/Finance.iOS/Finance.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/vancleimatheus/.nuget/packages/xamarin.forms/4.7.0.1179/xamarin.forms.4.7.0.1179.nupkg.sha512"
+  ],
+  "logs": []
+}
